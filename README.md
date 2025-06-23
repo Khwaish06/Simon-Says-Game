@@ -39,6 +39,13 @@ index.html - The main structure of the game.
 simon.css - Stylesheet for the game UI.
 
 simon.js - JavaScript logic for game functionality.
+## 📸 Screenshots
+### Game Start
+![image](https://github.com/user-attachments/assets/128ce9e0-6409-4d6f-8bdc-6c5d2cdd2b55)
+### Level 2 Example
+![image](https://github.com/user-attachments/assets/998c5f57-bf43-4a6d-bef7-eec329188cb0)
+
+
 
 Setup
 
